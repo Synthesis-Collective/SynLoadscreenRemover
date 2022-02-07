@@ -5,9 +5,9 @@ using Mutagen.Bethesda;
 using Mutagen.Bethesda.Synthesis;
 using Mutagen.Bethesda.Skyrim;
 
-using SynLoadScreenRemover.Types;
-
 using Noggog;
+
+using SynLoadScreenRemover.Types;
 
 namespace SynLoadScreenRemover
 {
