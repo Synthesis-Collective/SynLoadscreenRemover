@@ -1,9 +1,12 @@
+using System;
 using System.Threading.Tasks;
+
 using Mutagen.Bethesda;
 using Mutagen.Bethesda.Synthesis;
 using Mutagen.Bethesda.Skyrim;
+
 using SynLoadScreenRemover.Types;
-using System;
+
 using Noggog;
 
 namespace SynLoadScreenRemover
